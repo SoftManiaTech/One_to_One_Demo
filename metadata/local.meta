@@ -1,0 +1,22 @@
+[app/ui]
+version = 9.2.2
+modtime = 1729255495.469035000
+
+[app/launcher]
+version = 9.2.2
+modtime = 1729255495.470986000
+
+[indexes/itsi_summary]
+owner = admin
+version = 9.2.2
+modtime = 1729255776.051938000
+
+[inputs/script%3A%2F%2F%24SPLUNK_HOME%2Fetc%2Fapps%2FOne_to_One_Demo%2Fbin%2Fitsi_summary_data.py]
+owner = admin
+version = 9.2.2
+modtime = 1729257173.652653000
+
+[inputs/script%3A%2F%2F%24SPLUNK_HOME%2Fetc%2Fapps%2FOne_to_One_Demo%2Fbin%2Fitsi_summary_historical_data.py]
+owner = admin
+version = 9.2.2
+modtime = 1729259425.032675000
