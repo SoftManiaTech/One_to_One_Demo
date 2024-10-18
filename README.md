@@ -27,7 +27,7 @@ cd /opt/splunk/bin
 
 ```bash
 cd /opt/splunk/bin
-./splunk cmd python itsi_summary_historical_data.py
+./splunk cmd python /opt/splunk/etc/apps/One_to_One_Demo/itsi_summary_historical_data.py
 ```
 
 ## Queries
