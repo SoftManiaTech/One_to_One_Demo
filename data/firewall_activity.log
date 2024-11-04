@@ -1,0 +1,3 @@
+2024-11-01T14:05:30Z - user_id=fw_user - action=allow - duration=0.300s
+2024-11-01T14:15:45Z - user_id=fw_admin - action=deny - duration=0.120s
+2024-11-01T14:25:50Z - user_id=fw_guest - action=monitor - duration=0.500s
