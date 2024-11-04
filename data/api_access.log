@@ -1,0 +1,3 @@
+[2024-11-01T14:10:10] User: p12345 | Action: GET | Resource: /api/data
+[2024-11-01T14:15:55] User: a98765 | Action: POST | Resource: /data/update
+[2024-11-01T14:25:42] User: c55555 | Action: DELETE | Resource: /data/remove
