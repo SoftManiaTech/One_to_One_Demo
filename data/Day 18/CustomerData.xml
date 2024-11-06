@@ -1,72 +1,71 @@
-<logEvents>
-    <event>
-        <timestamp>2024-11-01 13:45:32</timestamp>
-        <card_number>1234-5678-9012-3456</card_number>
-        <SSN>123-45-6789</SSN>
-        <email>john.doe@example.com</email>
-        <phone>123-456-7890</phone>
-        <IP_address>192.168.1.100</IP_address>
-        <passport>AB1234567</passport>
-        <account>ABCD-12345</account>
-        <birth_date>1985-09-16</birth_date>
-        <license>D1234</license>
-        <name>John Smith</name>
-        <medical_record_id>MRID123456</medical_record_id>
-    </event>
-    <event>
-        <timestamp>2024-11-01 13:46:12</timestamp>
-        <card_number>9876-5432-1098-7654</card_number>
-        <SSN>987-65-4321</SSN>
-        <email>jane.smith@example.net</email>
-        <phone>456-789-0123</phone>
-        <IP_address>10.0.0.200</IP_address>
-        <passport>CD9876543</passport>
-        <account>WXYZ-67890</account>
-        <birth_date>1990-05-10</birth_date>
-        <license>D5678</license>
-        <name>Jane Doe</name>
-        <medical_record_id>MRID789012</medical_record_id>
-    </event>
-    <event>
-        <timestamp>2024-11-01 13:47:22</timestamp>
-        <card_number>5678-1234-9012-3456</card_number>
-        <SSN>567-89-1234</SSN>
-        <email>michael.jones@example.org</email>
-        <phone>789-012-3456</phone>
-        <IP_address>172.16.5.100</IP_address>
-        <passport>EF3456789</passport>
-        <account>LMNO-54321</account>
-        <birth_date>1975-12-20</birth_date>
-        <license>D9012</license>
-        <name>Michael Jones</name>
-        <medical_record_id>MRID345678</medical_record_id>
-    </event>
-    <event>
-        <timestamp>2024-11-01 13:48:47</timestamp>
-        <card_number>2345-8967-1234-8765</card_number>
-        <SSN>234-56-7890</SSN>
-        <email>emily.brown@example.co</email>
-        <phone>321-654-9870</phone>
-        <IP_address>8.8.8.8</IP_address>
-        <passport>GH1234567</passport>
-        <account>PQRS-09876</account>
-        <birth_date>1993-03-25</birth_date>
-        <license>D3456</license>
-        <name>Emily Brown</name>
-        <medical_record_id>MRID456789</medical_record_id>
-    </event>
-    <event>
-        <timestamp>2024-11-01 13:49:35</timestamp>
-        <card_number>8765-1234-9876-5123</card_number>
-        <SSN>876-54-3210</SSN>
-        <email>william.taylor@example.com</email>
-        <phone>654-321-0987</phone>
-        <IP_address>192.168.100.50</IP_address>
-        <passport>IJ8765432</passport>
-        <account>UVWX-32109</account>
-        <birth_date>1988-07-11</birth_date>
-        <license>D6789</license>
-        <name>William Taylor</name>
-        <medical_record_id>MRID567890</medical_record_id>
-    </event>
-</logEvents>
+<event>
+    <timestamp>2024-11-01 13:45:32</timestamp>
+    <card_number>1234-5678-9012-3456</card_number>
+    <SSN>123-45-6789</SSN>
+    <email>john.doe@example.com</email>
+    <phone>123-456-7890</phone>
+    <IP_address>192.168.1.100</IP_address>
+    <passport>AB1234567</passport>
+    <account>ABCD-12345</account>
+    <birth_date>1985-09-16</birth_date>
+    <license>D1234</license>
+    <name>John Smith</name>
+    <medical_record_id>MRID123456</medical_record_id>
+</event>
+<event>
+    <timestamp>2024-11-01 13:46:12</timestamp>
+    <card_number>9876-5432-1098-7654</card_number>
+    <SSN>987-65-4321</SSN>
+    <email>jane.smith@example.net</email>
+    <phone>456-789-0123</phone>
+    <IP_address>10.0.0.200</IP_address>
+    <passport>CD9876543</passport>
+    <account>WXYZ-67890</account>
+    <birth_date>1990-05-10</birth_date>
+    <license>D5678</license>
+    <name>Jane Doe</name>
+    <medical_record_id>MRID789012</medical_record_id>
+</event>
+<event>
+    <timestamp>2024-11-01 13:47:22</timestamp>
+    <card_number>5678-1234-9012-3456</card_number>
+    <SSN>567-89-1234</SSN>
+    <email>michael.jones@example.org</email>
+    <phone>789-012-3456</phone>
+    <IP_address>172.16.5.100</IP_address>
+    <passport>EF3456789</passport>
+    <account>LMNO-54321</account>
+    <birth_date>1975-12-20</birth_date>
+    <license>D9012</license>
+    <name>Michael Jones</name>
+    <medical_record_id>MRID345678</medical_record_id>
+</event>
+<event>
+    <timestamp>2024-11-01 13:48:47</timestamp>
+    <card_number>2345-8967-1234-8765</card_number>
+    <SSN>234-56-7890</SSN>
+    <email>emily.brown@example.co</email>
+    <phone>321-654-9870</phone>
+    <IP_address>8.8.8.8</IP_address>
+    <passport>GH1234567</passport>
+    <account>PQRS-09876</account>
+    <birth_date>1993-03-25</birth_date>
+    <license>D3456</license>
+    <name>Emily Brown</name>
+    <medical_record_id>MRID456789</medical_record_id>
+</event>
+<event>
+    <timestamp>2024-11-01 13:49:35</timestamp>
+    <card_number>8765-1234-9876-5123</card_number>
+    <SSN>876-54-3210</SSN>
+    <email>william.taylor@example.com</email>
+    <phone>654-321-0987</phone>
+    <IP_address>192.168.100.50</IP_address>
+    <passport>IJ8765432</passport>
+    <account>UVWX-32109</account>
+    <birth_date>1988-07-11</birth_date>
+    <license>D6789</license>
+    <name>William Taylor</name>
+    <medical_record_id>MRID567890</medical_record_id>
+</event>
+
